@@ -1,0 +1,23 @@
+<DOCTYPE html>
+ <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial scale=1.0">
+    <title>java prompt </title>
+</head>
+<body>
+    <h1>Hello javascript</h1>
+    
+
+   <script>
+        var name = prompt(what is your name: );
+
+        alert(Hello + name + !);
+        var lastname = prompt(what is your last name);
+
+        document. write(<h1 style= font-weight: bold;>Hello + name + + lastname + !</h1>)
+
+    </script>
+</body>
+ </html>   
+   
